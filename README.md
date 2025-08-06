@@ -7,4 +7,9 @@ This repo contains the code to create a set of time-varying barrier functions fo
 ### Mosek License
 In order to run the tool a [MOSEK](https://www.mosek.com/) license is necessary. This is freely available for students. We recomment following the instructions [here](https://www.mosek.com/products/academic-licenses/) to get your license 
 
-### Mosek License
+### Download the mosek binaries 
+
+
+
+
+

@@ -5,6 +5,8 @@ CMakeCache.txt
 cmake_install.cmake
 Makefile
 
+# == MOSEK ===
+/lib/mosek/
 
 # === IDE / Editor files ===
 *.user
