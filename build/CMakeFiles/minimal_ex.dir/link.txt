@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/minimal_ex.dir/examples/minimal_ex.cpp.o -o bin/minimal_ex   -L/home/greg98/Desktop/remotes/stl_tool_barebone/lib/mosek/11.0/tools/platform/linux64x86/bin  -Wl,-rpath,/home/greg98/Desktop/remotes/stl_tool_barebone/lib/mosek/11.0/tools/platform/linux64x86/bin lib/libhypercube.a -lmosek64 -lmosekxx11_0 -ltbb -lfusion64 
