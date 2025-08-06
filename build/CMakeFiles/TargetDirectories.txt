@@ -1,0 +1,4 @@
+/home/greg98/Desktop/remotes/stl_tool_barebone/build/CMakeFiles/hypercube.dir
+/home/greg98/Desktop/remotes/stl_tool_barebone/build/CMakeFiles/minimal_ex.dir
+/home/greg98/Desktop/remotes/stl_tool_barebone/build/CMakeFiles/edit_cache.dir
+/home/greg98/Desktop/remotes/stl_tool_barebone/build/CMakeFiles/rebuild_cache.dir

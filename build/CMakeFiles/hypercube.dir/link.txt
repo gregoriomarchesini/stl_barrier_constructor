@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libhypercube.a CMakeFiles/hypercube.dir/src/utils.cpp.o
+/usr/bin/ranlib lib/libhypercube.a
