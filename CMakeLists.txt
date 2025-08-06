@@ -35,6 +35,15 @@ function(add_example name)
     )
 endfunction()
 
+message(STATUS "🔧 Running 'make install' in Fusion C++ directory...")
+execute_process(
+    COMMAND make install
+    WORKING_DIRECTORY ${PROJECT_SOURCE_DIR}/lib/mosek/11.0/tools/platform/linux64x86/src/fusion_cxx
+    RESULT_VARIABLE result
+    OUTPUT_VARIABLE output
+    ERROR_VARIABLE error_output
+)
+
 
 
 # Then just call it
